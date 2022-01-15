@@ -92,5 +92,3 @@ app.listen(port, () => {
     console.log('travel day server running on', port);
 })
 
-// DB_USERS=travelDay
-// DB_PSS=71xG0vLVMN4D0mr4
